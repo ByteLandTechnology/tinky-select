@@ -1,3 +1,7 @@
+**tinky-select**
+
+---
+
 # tinky-select
 
 [![npm version](https://img.shields.io/npm/v/tinky-select.svg)](https://www.npmjs.com/package/tinky-select)
